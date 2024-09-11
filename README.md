@@ -1,6 +1,6 @@
 # drivingquiz
 
-"Create A 3D Driving Test Quiz Using Three.js, Yuka, and GSAP" YouTube tutorial project files https://youtu.be/WIZ5kbeVMkM
+"Create A 3D Driving Test Quiz Using Three.js, Yuka, and GSAP" YouTube tutorial project files 
 
 1. Clone the repository;
 2. Open the folder in Visual Studio Code;
